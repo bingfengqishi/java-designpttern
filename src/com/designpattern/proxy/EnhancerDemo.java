@@ -8,6 +8,7 @@ import java.lang.reflect.Method;
 
 /**
  * Created by lenovo on 2017/11/22.
+ * CGLIB动态代理实现
  */
 public class EnhancerDemo {
     public static void main(String[] args) {
