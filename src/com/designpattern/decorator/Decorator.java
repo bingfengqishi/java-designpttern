@@ -1,7 +1,10 @@
 package com.designpattern.decorator;
 
-/**
- * Created by Administrator on 2017/12/19 0019.
+/***
+ * @Author libo
+ * @Description 装饰模式
+ * @Date 17:33 2018/12/25
+ * @return 
  */
 public class Decorator implements  Sourceable {
 

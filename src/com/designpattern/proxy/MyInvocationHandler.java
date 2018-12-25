@@ -32,4 +32,5 @@ public class MyInvocationHandler implements InvocationHandler{
     public Object getProxy(){
         return Proxy.newProxyInstance(Thread.currentThread().getContextClassLoader(),target.getClass().getInterfaces(),this);
     }
+
 }
